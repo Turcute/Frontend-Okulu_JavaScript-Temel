@@ -1,3 +1,4 @@
+// Kullanıcı 0 Girene Kadar Devam Eden Sorgu (while ile)
 
 let number = Number(prompt(`Please enter number: (Type 0 to exit)`))
 
